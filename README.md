@@ -1,2 +1,2 @@
-# ChDe
-Líneas de cçodigo en R para el análisis estadístico y espacial de meustras de suelos superficiales del Desierto Chihuahuense
+# ChihuahuanDesert
+Líneas de codigo en R para el análisis estadístico y espacial de muestras de suelos superficiales del Desierto Chihuahuense
